@@ -48,8 +48,8 @@ class ChatMessage extends StatelessWidget {
             Expanded(
               child: Column(
                 children: <Widget>[
-                  Text('$date',
-                  ),
+                  // Text('$date',
+                  // ),
                   Text(
                     '$time',
                     textAlign: TextAlign.end,
